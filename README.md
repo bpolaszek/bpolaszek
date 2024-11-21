@@ -23,6 +23,8 @@ Over the years, I've honed my skills as a **full-stack developer**, specializing
 
 I'm currently working on **Meiliweb**, an open-source UI for **Meilisearch**.
 
+[<img width="400" alt="Capture d’écran 2024-11-21 à 11 51 23" src="https://github.com/user-attachments/assets/091b37d2-6b8b-4e57-8f29-3b5f8833f2a2">](https://meiliweb.pages.dev)
+
 [https://meiliweb.pages.dev](https://meiliweb.pages.dev) ([source](https://github.com/bpolaszek/meiliweb))
 
 
