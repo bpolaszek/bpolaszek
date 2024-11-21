@@ -6,32 +6,33 @@ I wrote my first line of code in PHP back in **1999**, and I've been hooked ever
 
 Over the years, I've honed my skills as a **full-stack developer**, specializing in:
 
-- 🖥️ **Backend**: PHP with **Symfony** & **API-Platform**, leveraging the power of **ReactPHP** for asynchronous event-driven applications and **Caddy** for efficient web server management.
+- 🖥️ **Backend**: PHP with **Symfony** & **API-Platform**, leveraging the power of **ReactPHP** for asynchronous event-driven applications.
 - 🌐 **Frontend**: **VueJS** & **Nuxt**, using the awesome **TailwindCSS** for styling
 - ⚡ **Real-Time Updates**: Powered by **Mercure**
 - 📱 **Hybrid Apps**: Built with **Capacitor**
-
-I love data! I like to play with databases, primarily **MySQL**, but I've had fun with **MariaDb Columnstore** (BI & Analytics), **Singlestore**,  **Solr** and **ElasticSearch**. 
-
-Recently, I've become a huge fan and evangelist of **Meilisearch**.
-
-### ☁️ Infrastructure & CI/CD
-
-For hosting, I’m all about **DigitalOcean**️ and keeping things speedy with **Cloudflare**. 
-
-Automation is key, and I use **GitHub Actions** to keep my CI/CD pipelines smooth and efficient.
-
-### 🤖 Into Generative AI
-
-I'm passionate about **Generative AI** and love exploring APIs from **Claude**, **Mistral**, and **OpenAI**.
+- ☁️ **Hosting**: **DigitalOcean** evangelist, **Caddy** for efficient web server / HTTPS management, **Cloudflare** to keep things speedy
+- 💾 **Databases & search**: Primarily **MySQL**, mostly **Meilisearch** ♥️
+- 🚛 **CI & CD**: Of course **GitHub Actions**, and also **Deployer**
+- 🤖 **Generative AI**: Not an expert, but I regularly play with  **Claude** and **Mistral**'s APIs.
 
 ---
 
-### 🚀 Current Project: [Meiliweb](https://github.com/bpolaszek/meiliweb)
+### 🚀 Current Projects
+
+#### Meiliweb
 
 I'm currently working on **Meiliweb**, an open-source UI for **Meilisearch**.
 
-[https://meiliweb.pages.dev](https://meiliweb.pages.dev)
+[https://meiliweb.pages.dev](https://meiliweb.pages.dev) ([source](https://github.com/bpolaszek/meiliweb))
+
+
+#### Grodiko
+
+An online French dictionnary, built with **NuxtJS** & **Meilisearch**.
+
+[<img width="400" alt="Grodiko" src="https://github.com/user-attachments/assets/b8d1e63f-5b1a-4de8-b6b3-78745aec9f61">](https://grodiko.fr)
+
+[https://grodiko.fr](https://grodiko.fr)
 
 ---
 
