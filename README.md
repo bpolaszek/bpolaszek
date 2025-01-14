@@ -31,7 +31,7 @@ I'm currently working on **Meiliweb**, an open-source UI for **Meilisearch**.
 
 A high-level Javascript library to encrypt and decrypt secrets using symmetric and asymmetric encryption algorithms, leveraging the **Web Crypto API**.
 
-<img width="400" alt="Let's Decrypt" src="https://github.com/user-attachments/assets/7371f351-ca96-4164-9786-737c43050389" />
+[<img width="400" alt="Let's Decrypt" src="https://github.com/user-attachments/assets/7371f351-ca96-4164-9786-737c43050389" />](https://letsdecrypt.pages.dev)
 
 [https://letsdecrypt.pages.dev](https://letsdecrypt.pages.dev) ([source](https://github.com/bpolaszek/letsdecrypt))
 
