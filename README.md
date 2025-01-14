@@ -19,14 +19,6 @@ Over the years, I've honed my skills as a **full-stack developer**, specializing
 
 ### 🚀 Current Projects
 
-#### Let's Decrypt!
-
-A high-level Javascript library to encrypt and decrypt secrets using symmetric and asymmetric encryption algorithms, leveraging the **Web Crypto API**.
-
-<img width="1533" alt="Let's Decrypt" src="https://github.com/user-attachments/assets/7371f351-ca96-4164-9786-737c43050389" />
-
-[https://letsdecrypt.pages.dev](https://letsdecrypt.pages.dev) ([source](https://github.com/bpolaszek/letsdecrypt))
-
 #### Meiliweb
 
 I'm currently working on **Meiliweb**, an open-source UI for **Meilisearch**.
@@ -34,6 +26,14 @@ I'm currently working on **Meiliweb**, an open-source UI for **Meilisearch**.
 [<img width="400" alt="Meiliweb" src="https://github.com/user-attachments/assets/091b37d2-6b8b-4e57-8f29-3b5f8833f2a2">](https://meiliweb.pages.dev)
 
 [https://meiliweb.pages.dev](https://meiliweb.pages.dev) ([source](https://github.com/bpolaszek/meiliweb))
+
+#### Let's Decrypt!
+
+A high-level Javascript library to encrypt and decrypt secrets using symmetric and asymmetric encryption algorithms, leveraging the **Web Crypto API**.
+
+<img width="400" alt="Let's Decrypt" src="https://github.com/user-attachments/assets/7371f351-ca96-4164-9786-737c43050389" />
+
+[https://letsdecrypt.pages.dev](https://letsdecrypt.pages.dev) ([source](https://github.com/bpolaszek/letsdecrypt))
 
 
 #### Grodiko
