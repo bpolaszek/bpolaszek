@@ -19,7 +19,7 @@ Over the years, I've honed my skills as a **full-stack developer**, specializing
 
 ### 🚀 Current Projects
 
-#### Meiliweb
+#### [MeiliWeb]
 
 I'm currently working on **Meiliweb**, an open-source UI for **Meilisearch**.
 
@@ -27,7 +27,8 @@ I'm currently working on **Meiliweb**, an open-source UI for **Meilisearch**.
 
 [https://meiliweb.pages.dev](https://meiliweb.pages.dev) ([source](https://github.com/bpolaszek/meiliweb))
 
-#### Let's Decrypt!
+
+#### [Let's Decrypt!]
 
 A high-level Javascript library to encrypt and decrypt secrets using symmetric and asymmetric encryption algorithms, leveraging the **Web Crypto API**.
 
@@ -36,9 +37,14 @@ A high-level Javascript library to encrypt and decrypt secrets using symmetric a
 [https://letsdecrypt.pages.dev](https://letsdecrypt.pages.dev) ([source](https://github.com/bpolaszek/letsdecrypt))
 
 
-#### Grodiko
+#### [Grodiko]
 
-An online French dictionnary, built with **NuxtJS** & **Meilisearch**.
+An online French dictionnary, full-featured with definitions, synonyms, antonyms, conjugations, translations, pronunciations etc.
+
+- **NuxtJS** SSR / CSR
+- **Meilisearch** delivering 1.5M+ entries with definitions & etymologies translated in 7 languages
+- Translations with **Claude** and **Deepseek**
+- The whole thing hosted on a $7 droplet on **DigitalOcean** with blazing fast response times ⚡️
 
 [<img width="400" alt="Grodiko" src="https://github.com/user-attachments/assets/b8d1e63f-5b1a-4de8-b6b3-78745aec9f61">](https://grodiko.fr)
 
