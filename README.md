@@ -13,7 +13,7 @@ Over the years, I've honed my skills as a **full-stack developer**, specializing
 - ☁️ **Hosting**: **DigitalOcean** evangelist, **Caddy** for efficient web server / HTTPS management, **Cloudflare** to keep things speedy
 - 💾 **Databases & search**: Primarily **MySQL**, mostly **Meilisearch** ♥️
 - 🚛 **CI & CD**: Of course **GitHub Actions**, and also **Deployer**
-- 🤖 **Generative AI**: Not an expert, but I regularly play with  **Claude** and **Mistral**'s APIs.
+- 🤖 **Generative AI**: Data augmentation with  **Claude**, **Deepseek**, **OpenAI** and **Mistral**'s APIs.
 
 ---
 
