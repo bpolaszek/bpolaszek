@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Web Development Enthusiast Since the Early 2000s
 
-I wrote my first line of code in PHP back in **1999**, and I've been hooked ever since! 
+I wrote my first line of code in PHP back in **2002**, and I've been hooked ever since! 
 
 Over the years, I've honed my skills as a **full-stack developer**, specializing in:
 
