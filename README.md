@@ -66,6 +66,7 @@ Also, I maintain a few **JavaScript** libraries:
 
 - 🌐 [**psr7-js**](https://github.com/bpolaszek/psr7-js): URL manipulation in JS like PSR-7 in PHP.
 - 🧩 [**match-operator**](https://github.com/bpolaszek/match-operator): A JavaScript port of PHP's `match` operator.
+- 🎲 [**picker-js**](https://github.com/bpolaszek/picker-js): A Javascript library to easily pick a random item from an array, with weight management.
 
 ---
 
