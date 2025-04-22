@@ -58,7 +58,9 @@ I maintain several **PHP** packages:
 
 - 🧰 [**bentools/freddie**](https://github.com/bpolaszek/freddie): A Mercure Hub written in PHP with Redis-based horizontal scaling.
 - 🔄 [**bentools/etl**](https://github.com/bpolaszek/bentools-etl): A PHP ETL library.
+- ➰ [**bentools/iterable-functions**](https://github.com/bpolaszek/php-iterable-functions): Add missing PHP functions: `iterable_map()`, `iterable_filter()`, `iterable_chunk()`, ...
 - 📦 [**bentools/cartesian-product**](https://github.com/bpolaszek/cartesian-product): Low-memory library for generating data combinations.
+- 🐝 [**bentools/string-combinations**](https://github.com/bpolaszek/string-combinations): Get all possible combinations from an array of strings.
 - 🔍 [**bentools/querystring**](https://github.com/bpolaszek/querystring): Query string manipulation in PHP.
 - 📲 [**bentools/webpush-bundle**](https://github.com/bpolaszek/webpush-bundle): A Symfony bundle for sending web push notifications.
 
