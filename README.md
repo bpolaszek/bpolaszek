@@ -51,6 +51,8 @@ I work as a freelancer, helping clients in various industries, including:
 
 Let’s build something awesome together!
 
+---
+
 ### 🚀 Current Projects
 
 #### MeiliWeb
