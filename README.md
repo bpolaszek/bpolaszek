@@ -63,6 +63,7 @@ I maintain several **PHP** packages:
 - 🐝 [**bentools/string-combinations**](https://github.com/bpolaszek/string-combinations): Get all possible combinations from an array of strings.
 - 🔍 [**bentools/querystring**](https://github.com/bpolaszek/querystring): Query string manipulation in PHP.
 - 📲 [**bentools/webpush-bundle**](https://github.com/bpolaszek/webpush-bundle): A Symfony bundle for sending web push notifications.
+- 🪞 [**bentools/reflection-plus**](https://github.com/bpolaszek/reflection-plus): Another improved PHP code reflection API.
 
 Also, I maintain a few **JavaScript** libraries:
 
@@ -70,6 +71,7 @@ Also, I maintain a few **JavaScript** libraries:
 - 🧩 [**match-operator**](https://github.com/bpolaszek/match-operator): A JavaScript port of PHP's `match` operator.
 - 🎲 [**bentools-picker**](https://github.com/bpolaszek/picker-js): A Javascript library to easily pick a random item from an array, with weight management.
 - 🔐 [**letsdecrypt**](https://github.com/bpolaszek/letsdecrypt): High-level API to encrypt and decrypt secrets using AES, RSA and ECC algorithms.
+- 🔗 [**caduceus**](https://github.com/bpolaszek/caduceus): A lightweight TypeScript library for Mercure real-time updates.
 
 ---
 
